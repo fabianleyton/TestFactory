@@ -1,0 +1,9 @@
+C:\fleyton\proyectos\net\MASGlobal\SimpleSolution\TestSolution\TestSolution.DataLayer\bin\Debug\TestSolution.DataLayer.dll
+C:\fleyton\proyectos\net\MASGlobal\SimpleSolution\TestSolution\TestSolution.DataLayer\bin\Debug\TestSolution.DataLayer.pdb
+C:\fleyton\proyectos\net\MASGlobal\SimpleSolution\TestSolution\TestSolution.DataLayer\obj\Debug\TestSolution.DataLayer.csprojAssemblyReference.cache
+C:\fleyton\proyectos\net\MASGlobal\SimpleSolution\TestSolution\TestSolution.DataLayer\obj\Debug\TestSolution.DataLayer.csproj.CoreCompileInputs.cache
+C:\fleyton\proyectos\net\MASGlobal\SimpleSolution\TestSolution\TestSolution.DataLayer\obj\Debug\TestSolution.DataLayer.csproj.CopyComplete
+C:\fleyton\proyectos\net\MASGlobal\SimpleSolution\TestSolution\TestSolution.DataLayer\obj\Debug\TestSolution.DataLayer.dll
+C:\fleyton\proyectos\net\MASGlobal\SimpleSolution\TestSolution\TestSolution.DataLayer\obj\Debug\TestSolution.DataLayer.pdb
+C:\fleyton\proyectos\net\MASGlobal\SimpleSolution\TestSolution\TestSolution.DataLayer\bin\Debug\TestSolution.Model.dll
+C:\fleyton\proyectos\net\MASGlobal\SimpleSolution\TestSolution\TestSolution.DataLayer\bin\Debug\TestSolution.Model.pdb

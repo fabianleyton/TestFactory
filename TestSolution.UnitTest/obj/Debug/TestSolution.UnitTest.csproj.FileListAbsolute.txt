@@ -1,0 +1,15 @@
+C:\fleyton\proyectos\net\MASGlobal\SimpleSolution\TestSolution\TestSolution.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\fleyton\proyectos\net\MASGlobal\SimpleSolution\TestSolution\TestSolution.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\fleyton\proyectos\net\MASGlobal\SimpleSolution\TestSolution\TestSolution.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\fleyton\proyectos\net\MASGlobal\SimpleSolution\TestSolution\TestSolution.UnitTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\fleyton\proyectos\net\MASGlobal\SimpleSolution\TestSolution\TestSolution.UnitTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\fleyton\proyectos\net\MASGlobal\SimpleSolution\TestSolution\TestSolution.UnitTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\fleyton\proyectos\net\MASGlobal\SimpleSolution\TestSolution\TestSolution.UnitTest\bin\Debug\TestSolution.UnitTest.dll
+C:\fleyton\proyectos\net\MASGlobal\SimpleSolution\TestSolution\TestSolution.UnitTest\bin\Debug\TestSolution.UnitTest.pdb
+C:\fleyton\proyectos\net\MASGlobal\SimpleSolution\TestSolution\TestSolution.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\fleyton\proyectos\net\MASGlobal\SimpleSolution\TestSolution\TestSolution.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\fleyton\proyectos\net\MASGlobal\SimpleSolution\TestSolution\TestSolution.UnitTest\obj\Debug\TestSolution.UnitTest.csprojAssemblyReference.cache
+C:\fleyton\proyectos\net\MASGlobal\SimpleSolution\TestSolution\TestSolution.UnitTest\obj\Debug\TestSolution.UnitTest.csproj.CoreCompileInputs.cache
+C:\fleyton\proyectos\net\MASGlobal\SimpleSolution\TestSolution\TestSolution.UnitTest\obj\Debug\TestSolution.UnitTest.csproj.CopyComplete
+C:\fleyton\proyectos\net\MASGlobal\SimpleSolution\TestSolution\TestSolution.UnitTest\obj\Debug\TestSolution.UnitTest.dll
+C:\fleyton\proyectos\net\MASGlobal\SimpleSolution\TestSolution\TestSolution.UnitTest\obj\Debug\TestSolution.UnitTest.pdb

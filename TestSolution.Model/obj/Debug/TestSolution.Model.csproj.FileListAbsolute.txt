@@ -1,0 +1,6 @@
+C:\fleyton\proyectos\net\MASGlobal\SimpleSolution\TestSolution\TestSolution.Model\obj\Debug\TestSolution.Model.csprojAssemblyReference.cache
+C:\fleyton\proyectos\net\MASGlobal\SimpleSolution\TestSolution\TestSolution.Model\obj\Debug\TestSolution.Model.csproj.CoreCompileInputs.cache
+C:\fleyton\proyectos\net\MASGlobal\SimpleSolution\TestSolution\TestSolution.Model\bin\Debug\TestSolution.Model.dll
+C:\fleyton\proyectos\net\MASGlobal\SimpleSolution\TestSolution\TestSolution.Model\bin\Debug\TestSolution.Model.pdb
+C:\fleyton\proyectos\net\MASGlobal\SimpleSolution\TestSolution\TestSolution.Model\obj\Debug\TestSolution.Model.dll
+C:\fleyton\proyectos\net\MASGlobal\SimpleSolution\TestSolution\TestSolution.Model\obj\Debug\TestSolution.Model.pdb
